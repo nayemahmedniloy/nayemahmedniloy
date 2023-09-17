@@ -1,4 +1,3 @@
-![1318492](https://github.com/NayemAhmedNiloy/NayemAhmedNiloy/assets/71997569/cb80170e-f57a-4532-9f92-534cc5ab3e2b)
 <h1 align="center">Hi 👋, I'm MD NAYEM AHMED NILOY</h1>
 <h3 align="center">A passionate website & android application developer.</h3>
 
@@ -8,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nymnly" target="blank"><img src="https://img.shields.io/twitter/follow/nymnly?logo=twitter&style=for-the-badge" alt="nymnly" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Python & Javascript.**
+- 🌱 I’m currently learning **React Native, Python & Javascript.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NayemAhmedNiloy](https://github.com/NayemAhmedNiloy)
 
-- 💬 Ask me about **Java, Dart, Flutter, Wordpress, C, C++ ==>**
+- 💬 Ask me about **Java, JavaScript, AppScript, HTML, CSS, Wordpress, C, C++, Python ==>**
 
 - 📫 How to reach me **nayemahmedniloy@gmail.com**
 
